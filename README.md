@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Anurag`s GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=darcula&show_icons=true)
-
-
 <div>
 <a href="https://github.com/efraibo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efraibo&layout=compact&langs_count=7&theme=dracula"/>
